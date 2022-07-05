@@ -1,0 +1,7 @@
+PÁLYATERVEZŐS PROGRAM FUTTATÁSA:
+
+1. roslaunch gopigo3_gazebo gopigo3_bmeaut_turtlebot3_world.launch 
+
+2. ./start_rviz.sh
+
+3. rosrun my_global_planner publish_goal
